@@ -3,7 +3,7 @@
 
 
 
-#### 第一步、下载下面的model文件夹的文件，放在“QT深度学习平台\model”中，
+#### 第一步、下载下面的model文件夹，放在“QT深度学习平台\”中，
 
 链接：https://pan.baidu.com/s/1e-RHroxJNbKaew5jEqIT4w 提取码：mycz
 
