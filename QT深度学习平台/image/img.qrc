@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>loading.jpg</file>
+        <file>图像分割4.jpg</file>
+        <file>图像分割1.png</file>
+        <file>图像分割3.png</file>
+        <file>图像分割2.png</file>
+        <file>introduction.jpg</file>
+        <file>人脸识别1.jpg</file>
+        <file>人脸识别2.jpg</file>
+        <file>人脸识别3.png</file>
+        <file>图像识别.jpg</file>
+        <file>目标检测1.png</file>
+        <file>目标检测2.png</file>
+        <file>目标检测3.png</file>
+        <file>目标检测4.png</file>
+        <file>目标跟踪1.jpg</file>
+        <file>目标跟踪2.jpg</file>
+        <file>目标跟踪3.jpg</file>
+        <file>目标跟踪4.jpg</file>
+        <file>目标跟踪5.jpg</file>
+        <file>img.qrc</file>
+        <file>communication.jpg</file>
+        <file>filesend.jpg</file>
+        <file>yolo.jpg</file>
+    </qresource>
+</RCC>
