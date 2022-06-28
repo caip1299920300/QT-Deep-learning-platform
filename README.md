@@ -7,7 +7,9 @@
 
 链接：https://pan.baidu.com/s/1e-RHroxJNbKaew5jEqIT4w 提取码：mycz
 
-![image-20220628184420286](img\image-20220628184420286.png)
+![image-20220628184420286](img/1.png)
+
+![image-20220628184420286](img/2.png)
 
 #### 第二步、根据“ubuntu安装opencv.docx”文件，配置ubuntu的opencv环境
 
