@@ -3,13 +3,17 @@
 
 
 
-#### 第一步、下载下面的model文件夹的文件，放在“QT深度学习平台\model”中，
+#### 第一步、下载下面的model文件夹，放在“QT深度学习平台\”中，
 
 链接：https://pan.baidu.com/s/1e-RHroxJNbKaew5jEqIT4w 提取码：mycz
 
+<<<<<<< HEAD
 ![image-20220628184420286](img/1.png)
 
 ![image-20220628184420286](img/2.png)
+=======
+![image-20220628184420286](img/image-20220628184420286.png)
+>>>>>>> 55b556a13f3ca02279565129e455669c552250ce
 
 #### 第二步、根据“ubuntu安装opencv.docx”文件，配置ubuntu的opencv环境
 
