@@ -1,5 +1,5 @@
 # QT-Deep-learning-platform
-基于QT的深度学习平台，其中使用了opencv部署了yolov4算法（如果您觉得有用，麻烦点个start）
+基于QT的深度学习平台，其中使用了opencv部署了yolov4算法**（如果您觉得有用，麻烦点个start）**
 
 **(如果你使用git下载总是报红，你可以选择下载dev-sidecar编程软件加速下载--https://gitee.com/interesting-goods/dev-sidecar?_from=gitee_search)**
 
