@@ -10,8 +10,7 @@
 ![image-20220628184420286](img/1.png)
 
 ![image-20220628184420286](img/2.png)
-=======
-![image-20220628184420286](img/image-20220628184420286.png)
+
 
 #### 第二步、根据“ubuntu安装opencv.docx”文件，配置ubuntu的opencv环境
 网址：https://blog.csdn.net/caip12999203000/article/details/125518281?spm=1001.2014.3001.5502
